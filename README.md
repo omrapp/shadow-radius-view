@@ -1,2 +1,2 @@
-# shadow-radius-view
-Add shadow and radius to view
+# Shadow with corners radius view
+Add shadow and corners radius to view
